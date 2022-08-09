@@ -1,0 +1,4 @@
+.idea
+*.wav
+.ipynb_checkpoints
+*audio_chunks
